@@ -1,7 +1,5 @@
-Kaggle seizure prediction
+Seizure prediction
 =========================
-
- 
 
 Kaggle competition:
 <https://www.kaggle.com/c/melbourne-university-seizure-prediction>
