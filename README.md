@@ -114,8 +114,6 @@ classifier.
 
 -   **testing**
 
- 
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 $ python train-test-predict.py validation_features_dir --test -c seizures.clf -r roc.png -o test.csv
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -128,8 +126,6 @@ saved with `-o` option in `test.csv` file.
  
 
 -   **predicting**
-
- 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 $ python train-test-predict.py test_features_dir --predict -c seizures.clf -o predictions.csv
