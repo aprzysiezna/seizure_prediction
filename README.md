@@ -12,7 +12,7 @@ preictal states given ten-minutes EEG records.
 Autors
 ------
 
-Tomasz Tylec, Anna Przysiezna, Maciej Jaskowski
+[Tomasz Tylec](https://github.com/ttylec), [Anna Przysiezna](https://github.com/chilaca), [Maciej Jaskowski](https://github.com/maciejjaskowski)
 
  
 
